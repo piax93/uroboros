@@ -1,6 +1,8 @@
 # Uroboros
 #### Infrastructure for Reassembleable Disassembling and Transformation
 
+### <ins>This fork was created as part of thesis work and it is now not maintained</ins>
+
 ### Fork motivation
 
 This fork is made with the idea of extending this technique to ARM Thumb executables. In such process, the OCaml core has been completely rewritten in Python.
